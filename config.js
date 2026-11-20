@@ -1,0 +1,1 @@
+window.DIGAF_CFG={url:'https://qwrlghweqnzygnswcyeb.supabase.co',key:'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InF3cmxnaHdlcW56eWduc3djeWViIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTQyMjE0MjEsImV4cCI6MjEwOTc5NzQyMX0.U2S9HRZoiC3ZBR8M8pHgeO8QYeYIgDupRA6SVQrhjgU'};

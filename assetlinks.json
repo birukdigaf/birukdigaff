@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "app.netlify.guileless_madeleine_60ac40.twa",
+    "sha256_cert_fingerprints": ["87:69:29:5E:E7:C1:35:C1:16:C0:91:66:BA:C2:27:B9:E2:84:DC:CA:34:B8:68:E8:92:F3:01:6A:17:11:58:47"]
+  }
+}]
